@@ -26,6 +26,14 @@ p {
 .highlights {
     background-color: yellow;
 }
+table {
+    border: 1px solid #CCC;
+    border-collapse: collapse;
+}
+
+td {
+    border: none;
+}
 .uptable {
     background-color: #20a9e5; color: white;
 }
