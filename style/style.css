@@ -1,0 +1,6 @@
+.container {
+    height: 170px; width: 100%; background-image: url(../img/pattern.png); background-color: #4ea0ff; display: inline-block;
+}
+.logo { height: 100px; width: 500px; background-image: url(../img/logo.svg); background-repeat: no-repeat; background-position: left;
+     
+}
