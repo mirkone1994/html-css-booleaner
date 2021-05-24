@@ -4,3 +4,31 @@
 .logo { height: 100px; width: 500px; background-image: url(../img/logo.svg); background-repeat: no-repeat; background-position: left;
      
 }
+#booleaner { color: #4ea0ff;
+
+}
+p {
+    margin: 0;
+}
+.title {
+    font-size: 45px; font-weight: bold;
+}
+.author {
+    color: gray
+    ;
+}
+.date {
+    color: gray; font-size: 10px;
+}
+.phdesc {
+    font-size: 10px;
+}
+.highlights {
+    background-color: yellow;
+}
+.uptable {
+    background-color: #20a9e5; color: white;
+}
+.oddtable {
+    background-color: #b1e5f2;
+}
