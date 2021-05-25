@@ -27,6 +27,10 @@ p {
 .highlights {
     background-color: yellow;
 }
+ul {
+    padding-inline-start: 0;
+    list-style-position: inside;
+}
 table {
     border: 1px solid #CCC; border-collapse: collapse; 
 }
